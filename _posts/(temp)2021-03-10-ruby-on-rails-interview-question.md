@@ -1,19 +1,20 @@
 ---
 layout: post
-title: Rails Routes for Rookies (번역)
+title: Ruby on Rails Interview Questions and Answers You Should Know (번역)
 author: sisipark
-tags: [Ruby, Ruby on Rails, routes, nested routes, 루비, 루비온레일즈, 라우트]
+tags: [Ruby, Ruby on Rails, interview, 루비면접질문, 루비개발자, 루비, 루비온레일즈]
 excerpt_separator: <!--more-->
 ---
 
-> 해당 포스트는 [Rails Routes for Rookies](https://medium.com/@tafby88/rails-routes-for-rookies-13d5fa2decdd)를 읽고 해석한 글입니다.
+> 해당 포스트는 [Ruby on Rails Interview Questions and Answers You Should Know](https://arc.dev/interview/ruby-on-rails-interview-questions-and-answers)를 읽고 해석(+의역)한 글입니다.
 
-최근, Tracoon라 불리는 프로젝트를 완료했는데 해당 프로젝트에서 우리가 자주 사용했던 컨셉 중 하나는 바로 라우트다. 라우트를 레일즈 프로젝트에서 어떻게 사용하는지에 대해 파악할 수 있었지만, 좀 더 깊게 이해하고 싶어졌다. 
+Ruby on Rails 면접을 준비하고 있는가? 당신이 반드시 알아야 할 루비온레일즈 인터뷰 질문들이 여기 있다. 당신이 주니어 개발자든 시니어 개발자든 이 포스트를 이용한다면 성공적으로 인터뷰를 마무리할 수 있을 것이다.
+
 <!--more-->
 
-### Routes
+### 루비온레일즈 질문 #1
 
-레일즈에서 라우트의 역할은 HTTP 리퀘스트를 처리해야할 컨트롤러의 액션에 적절히 맵핑해주는 것이다. 리퀘스트를 받게 되면, 레일즈는 먼저 routes.rb 파일에 정의된 각 경로를 스캔하며 리퀘스트의 verb 및 URL 조합과 일치하는 것이 있는지 확인한다. 레일즈는 해당 요청을 일치하는 경로로 보내고, 엔드포인트에 경로가 없다면 'no routes match error'를 발생시킨다. 
+
 
 {% include aligner.html images="blogs/railsroutes.png" column=1 %}
 <center><small style="color:grey">출처 : https://medium.com/@tafby88/rails-routes-for-rookies-13d5fa2decdd</small></center>
