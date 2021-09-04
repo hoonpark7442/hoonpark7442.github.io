@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rails Routes for Rookies (번역)
+title: (번역) Rails Routes for Rookies
 author: sisipark
 tags: [Ruby, Ruby on Rails, routes, nested routes, 루비, 루비온레일즈, 라우트]
 excerpt_separator: <!--more-->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (번역) Ruby Gems, Gemfile & Bundler
+title: Difference between update and update_attributes
 author: sisipark
 tags: [Ruby, Ruby on Rails, gem, gemfile, bundler, 루비개발자, 루비, 루비온레일즈]
 excerpt_separator: <!--more-->
@@ -11,6 +11,7 @@ excerpt_separator: <!--more-->
 Ruby gem이란 무엇인가? gem은 당신이 다운로드받거나 설치할 수 있는 패키지이다. 당신이 설치된 gem을 require하면 당신의 루비 프로그램애 추가적인 기능을 더할 수 있다.
 
 <!--more-->
+https://stackoverflow.com/questions/53830310/difference-between-update-and-update-attributes
 <br>
 ### gem은 당신에게 아래와 같은 것들을 가능하게 한다
 + 당신의 앱에 로그인 기능을 더한다
