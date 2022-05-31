@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 
 # 기술 면접 준비
 
+<!--more-->
+
 ## 운영 체제
 
 ### 프로세스
