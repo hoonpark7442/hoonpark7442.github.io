@@ -35,7 +35,7 @@ excerpt_separator: <!--more-->
   </div>
 </details>
 
-
+<br>
 2. SQL과 NoSQL
 <details>
   <summary>답변보기 ▾</summary>
@@ -71,8 +71,18 @@ excerpt_separator: <!--more-->
   </div>
 </details>
 
-
+<br>
 3. 카디널리티
+<details>
+  <summary>답변보기 ▾</summary>
+  <div markdown="1">
+    카디널리티(Cardinality)는 특정 데이터 집합의 유니크(Unique)한 값의 개수이다. 예를 들어 데이터베이스에 '성별' 컬럼의 경우 남자와 여자라는 값을 갖는다. (생물학적인 성별만 고려하자면) 이 경우 카디널리티는 2다.
+  </div>
+</details>
+
+
+
+
 
 
 

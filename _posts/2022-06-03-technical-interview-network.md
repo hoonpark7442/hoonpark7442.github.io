@@ -24,6 +24,7 @@ excerpt_separator: <!--more-->
   </div>
 </details>
 
+<br>
 2. TCP, UDP
 <details>
   <summary>답변보기 ▾</summary>
@@ -57,6 +58,8 @@ excerpt_separator: <!--more-->
   </div>
 </details>
 
+
+<br>
 3. IP
 <details>
   <summary>답변보기 ▾</summary>
@@ -76,6 +79,8 @@ excerpt_separator: <!--more-->
   </div>
 </details>
 
+
+<br>
 4. 로드밸런싱
 <details>
   <summary>답변보기 ▾</summary>
